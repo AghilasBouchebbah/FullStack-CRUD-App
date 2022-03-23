@@ -1,6 +1,6 @@
 # FullStack-CRUD-App
 
-Architecture de l'application deployée en local
+<B> Architecture de l'application deployée en local
 
 ![fsdure](https://user-images.githubusercontent.com/58481599/159601001-91d37ae4-9852-407e-b6fb-bef640940b5d.JPG)
 
