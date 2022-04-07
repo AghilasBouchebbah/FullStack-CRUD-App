@@ -16,4 +16,5 @@ Tutorial for the migration from local to AWS <br>
 Creating all the resources and adapting the code
 <br>
 
-![Watch the video](https://drive.google.com/file/d/1p72950tOS9eyX-rnj7HZ_fBiRjZK65sM/view?usp=sharing)
+[![Watch the video](https://user-images.githubusercontent.com/58481599/162276064-db495e23-5249-40aa-9664-c47e7f2ec5d8.jpg)](https://www.youtube.com/watch?v=UHaSsTTv5mI&t=185s)
+
