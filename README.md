@@ -12,7 +12,7 @@
 
 <br>
 
-Tutorial for the migration from local to AWS 
+Tutorial for the migration from local to AWS <br>
 Creating all the resources and adapting the code
 <br>
-https://drive.google.com/file/d/1p72950tOS9eyX-rnj7HZ_fBiRjZK65sM/view?usp=sharing
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)] (https://drive.google.com/file/d/1p72950tOS9eyX-rnj7HZ_fBiRjZK65sM/view?usp=sharing)
